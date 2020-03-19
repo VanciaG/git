@@ -1,0 +1,6 @@
+class NewClass{
+    private int s;
+    public NewClass(int s){
+        this.s=s;
+    }
+}
