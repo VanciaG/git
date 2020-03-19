@@ -15,6 +15,6 @@ public abstract class Document {
         for (String cuvant : continut) {
             res += cuvant + " ";
         }
-        return res;
+        return "Documente:" + res;
     }
 }
